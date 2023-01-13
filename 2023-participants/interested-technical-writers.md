@@ -7,4 +7,4 @@ _NOTE: PRs will be auto-closed until the beginning of the 2023 Season of Docs pr
 > Technical writers interested in participating in the 2023 Season of Docs should add their information here, by [creating a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). Please add your information _to the bottom_.
 > Technical Writer Name | Link to portfolio or CV | Interests/Experience
 > ---------------------- | ------------------------| ---------
-> [Kannam Raj Kumar] Ima Writer | [myportfolio.me]([http://example.com](https://www.upwork.com/freelancers/~0155d313df1759027e)) | API documentation, user guides
+> [Kannam Raj Kumar] I am a Technical Writer | [myportfolio.me](https://www.upwork.com/freelancers/~0155d313df1759027e) | API documentation, user guides
